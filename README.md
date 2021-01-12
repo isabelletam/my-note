@@ -14,11 +14,11 @@ memorizing terms for school.
  Hopefully with this application, I will no longer have to feel that pain. 
 ## User Stories
 - As a user, I want to be able to **enter** my *freshly* learned vocabulary.
-- As a user, I want to be able to **edit** the last entry I entered.
+- As a user, I want to be able to **load** my current list of entries and continue adding to it
 - As a user, I want to be able to **practice** my entry by retrieving all previous entries. 
 - As a user, I want the ability to **flag** certain vocabulary that I should focus on.
 - As a user, I want to be able to save my current list of entries
-- As a user, I want to be able to load my current list of entries, and then continue adding to it.
+- As a user, I want to be able to load my current list of entries
 
 ## Phase 4: Task 2
 - Use of map interface which allows me to map entries to their entry type, with entry types as the key and 
